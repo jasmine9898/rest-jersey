@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/classes/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rest-jersey" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.1.7.RELEASE" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/asm-3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jettison-1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jackson-xc-1.9.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-core-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-json-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jsr311-api-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-guice-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/oauth-client-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/oauth-server-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-client-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-server-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-spring-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jackson-jaxrs-1.9.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-servlet-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/oauth-signature-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-multipart-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jackson-core-asl-1.9.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-atom-abdera-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-apache-client-1.18.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jersey-simple-server-1.18.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="rest-jersey/web/Web" />
+    </root>
+  </artifact>
+</component>
